@@ -1,4 +1,7 @@
 ## Hello there! I'm Ramiro Polverini 👋
+Emprendedor tecnológico | Más de 20 años creando sistemas inteligentes | Apasionado por el IoT, Crypto, BlockChain y Neurociencia
+
+
 
 [![Website](https://img.shields.io/badge/-Website-FB542B?style=flat-square&logo=Brave&logoColor=white)](https://polverini.com.ar/rpolverini/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rpolverini/) 
