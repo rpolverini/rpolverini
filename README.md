@@ -12,7 +12,7 @@ Emprendedor tecnológico | Más de 20 años creando sistemas inteligentes | Apas
 
 
 <a href="https://github.com/rpolverini">
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats-rpolverinis-projects.vercel.app/api?username=rpolverini&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" alt="My Most Used Languages" src="https://github-readme-stats-rpolverinis-projects.vercel.app/api/top-langs/?username=rpolverini&langs_count=5&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true&hide=html,scss,css,c%2B%2B,shaderlab,jupyter%20notebook,mathematica,c" />
+  <img height="180em" alt="My GitHub Stats" src="https://rpolverini-gh-stats.vercel.app/api?username=rpolverini&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="My Most Used Languages" src="https://rpolverini-gh-stats.vercel.app/api/top-langs/?username=rpolverini&langs_count=5&layout=compact&bg_color=00000000&text_color=3498db&hide_border=true&count_private=true&include_all_commits=true&hide=html,scss,css,c%2B%2B,shaderlab,jupyter%20notebook,mathematica,c" />
 </a>
 
